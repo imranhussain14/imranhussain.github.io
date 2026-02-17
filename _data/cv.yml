@@ -1,11 +1,13 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: Imran Hussain
+  label: SLAM, Autonomous Naviagtion, Robotics
+  email: imranhussainturi14@gmail.com
+  location: Sueon, South Korea
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
-
+  summary: Enthusiasticandmotivatedgraduateresearcherinelectronicsengineeringwithstrongexperienceinrobotics,visualSLAM,autonomousnavigation,
+precision agriculture robotics, wireless sensor networks, and energy‑efficient embed ded systems. Proficient in ROS, Python, C++, and real‑time
+navigation systems. Seeking to apply expertise in stereo vision, path planning, and autonomous navigation to develop cutting‑edge robotic solu
+tions
   social_networks:
     - network: X
       username: AlbertEinstein
@@ -15,21 +17,21 @@ cv:
       username: example
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+    street: 325-33 Cheoncheon-dong
+    city: Suwon-Si
+    region: Gyeonggi-do
+    postalCode: 16421
+    countryCode: South Korea
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
+      - institution: Kangwon National University
+        location: Chuncheon, South Korea
+        url: https://wwwk.kangwon.ac.kr/
+        area: Electronics
+        studyType: Master
+        start_date: 2024
+        end_date: 2025
         score: ""
         courses: "Theory of Relativity"
         highlights:
